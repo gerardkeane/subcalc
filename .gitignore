@@ -1,0 +1,30 @@
+## Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+## Virtualenvs
+.venv/
+venv/
+env/
+
+## Build artifacts
+dist/
+build/
+*.egg-info/
+
+## OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+## Project outputs (generated)
+output/
+
+## Misc
+*.log
+.python-version
